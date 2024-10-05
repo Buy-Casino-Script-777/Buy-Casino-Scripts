@@ -43,6 +43,9 @@ The future of online gaming is at your fingertips. Reach out to us today, and le
 
 ---
 
+![Online Casino Script](https://online-casino-scripts.com/images/items/2volejrejnmg/zXq0cQUKDoGjLdo_1721700339.webp)
+
+
 ## 🌟 About Us
 
 We are the architects of your casino dreams, providing bespoke solutions that push the boundaries of the industry. This repository is a showcase of our commitment to delivering high-quality, secure, and innovative casino platforms. Whether it’s **API development**, **branding**, **design**, or **custom game creation**, we ensure your project exceeds all expectations.
@@ -62,8 +65,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🛠️ Installation Instructions
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-username/casino-script.git
